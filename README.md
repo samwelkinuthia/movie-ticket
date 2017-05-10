@@ -6,6 +6,10 @@
 
 The markdown was written primarily in  **html**, **css**  and **bootstrap** whereas the effects were accomplished using **Javascript**. It incorporates various bootstrap elements like **columns** and **row**, css hover effects and a user interface. 
 
+# link
+
+The web page can be accessed via https://samwelkinuthia.github.io/movie-ticket/
+
 # Contributer
 
 The code was written by [Kinuthia Samwel](https://github.com/samwelkinuthia) under the guidance of [moringa school](http://moringaschool.com/).
