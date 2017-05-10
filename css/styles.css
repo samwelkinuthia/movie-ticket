@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+@import url('https://fonts.googleapis.com/css?family=Concert+One');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+
+#reveal-price {
+  display: none;
+}
+
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: black;
+}
+
+.top {
+  background-image: url('NEol66yzYLQ4rv_1_a.jpg');
+  text-align: center;
+  height: 560px;
+  background-repeat: no-repeat;
+}
+
+.top h1 {
+  font-size: 120px;
+  font-style: bold;
+  color: yellow;
+  font-family: 'Russo One';
+  opacity: 0.9;
+  text-align: center;
+  padding-top: 170px;
+  text-shadow: -5px 4px 6px black;
+}
+
+.top p {
+  font-family: 'Fredoka One';
+  font-size: 40px;
+  padding: 5px;
+  color: yellow;
+  text-shadow: 1px 3px 3px black;
+}
+
+
+/*START OF TICKET DIV*/
+
+.ticket {
+  font-family: 'Russo One';
+  color: #1a75ff;
+  padding: 10px;
+}
+
+.btn {
+  padding: 5px;
+  margin: 5px;
+}
+
+.btn:hover {
+  color: red;
+}
+#price{
+  color:white;
+  font-size:20px;
+}
+
+.thumbnail {
+  background-color: black;
+}
+
+.second {
+  padding: 10px;
+}
+
+.sidebarLeft {
+  font-family: 'Russo One';
+  color: #1a75ff;
+  font-size: 14px;
+  padding: 10px;
+  background-color: #1a1a1a;
+}
+
+.sidebarLeft {
+  color: yellow;
+}
+
+.sidebarRight {
+  font-family: 'Fredoka One';
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+.sidebarRight h2 {
+  color: #1a75ff;
+}
+
+.sidebarRight p, ul {
+  font-size: 16px;
+  color: #f2f2f2;
+}
+
+.thumbnail {
+  box-shadow: 1px 3px 5px white;
+}
+
+li {
+  color: yellow;
+}
+
+.icons {
+  text-align: center;
+}
+
+footer {
+  color:grey;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Russo One';
+  border: 2px solid black;
+  background-image: url('img/maxresdefault-3.jpg');
+}

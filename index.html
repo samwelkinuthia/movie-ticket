@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Bookaticket</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="js/jquery-3.2.1.js"></script>
+  <script src="js/scripts.js"></script>
+</head>
+
+<body>
+  <div class="container-fluid top">
+    <h1>N O W &nbsp; P L A Y I N G</h1>
+  </div>
+
+  <div class="container-fluid second">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="col-md-2 sidebarLeft thumbnail">
+          <h2>Our Partners</h2>
+          <img class="thumbnail" src="img/imax-logo-fr.png" style="height:70px; width:200px; padding:5px;">
+          <img class="thumbnail" src="img/Panavision_logo.png" style="height:70px; width:200px; padding:5px;">
+          <img class="thumbnail" src="img/Warner_Bros._Records.png" style="height:70px; width:200px; padding:5px;">
+          <img class="thumbnail" src="img/Moringa-School-logo_white.png" style="height:70px; width:200px; padding:5px;">
+
+
+        </div>
+        <div class="col-md-8 ticket">
+          <form id="movies">
+            <h3>Select a Movie</h3>
+            <select class="form-control" id="movie">
+                    <option value="500">Guardians Of The Galaxy Vol(3D)</option>
+                    <option value="400">Fast and furious 8 (2D)</option>
+                    <option value="200">Logan(2D)</option>
+                    <option value="500">Kong:Skull Island(3D)</option>
+                    <option value="500">The Mummy(3D)</option>
+                    <option value="600">Spiderman:Homecoming(3D)</option>
+                    <option value="800">Kingsman:The Golden Circle(3D)</option>
+                </select>
+            <h3>Select Time</h3>
+            <select class="form-control" id="viewtime">
+                    <option value="100">8:00am</option>
+                    <option value="150">10:30am</option>
+                    <option value="250">12pm</option>
+                    <option value="300">2pm</option>
+                    <option value="400">3:20pm</option>
+                    <option value="500">5:00pm</option>
+                    <option value="600">6:30pm</option>
+                    <option value="700">8:00pm</option>
+                    <option value="800">9:30pm</option>
+                  </select>
+            <h3>Release</h3>
+            <select class="form-control" id="release">
+                        <option value="100">Late Release</option>
+                        <option value="50">First release</option>
+                    </select>
+            <h3>Age Select</h3>
+            <select class="form-control" id="age">
+                    <option value="100">Kids:18 and below</option>
+                    <option value="70">Adult</option>
+                    <option value="200">Senior:60+</option>
+                  </select>
+
+
+            <button type="submit" class="btn">Ticket Price:</button>
+          </form>
+
+          <div id="reveal-price">
+            <p>Your movie Ticket will cost <span id=price>
+            </span> Shillings.Thank You!</p>
+          </div>
+
+        </div>
+        <div class="col-md-2 sidebarRight">
+          <img class="thumbnail" src="img/Imax_logo.png" style="height:70px; width:200px; padding:5px;">
+          <h2>Contact Us</h2>
+          <p>Any Questions, comments or suggestions, feel free to contact us via
+            <ul>
+              <li>phone: 0712345678</li>
+              <li>email: s@yahoo.com</li>
+            </ul>
+            <p>Feel free to follow us on Twitter, Facebook and Google Plus.</p>
+            <img class="icons" src="img/twitter-logo-button.png">
+            <img class="icons" src="img/google-plus-logo-button.png">
+            <img class="icons" src="img/facebook-logo-button.png">
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <p>Bookaticket.com &nbsp;copyright. 2017</p>
+  </footer>
+
+
+</body>
+
+</html>
