@@ -13,9 +13,9 @@ The code was written by [Kinuthia Samwel](https://github.com/samwelkinuthia) und
 # Purpose
 
 To calculate the cost of a ticket based on 3 parameters:
-1.Ag.e
-2.Time
-3.Release
+1. Age
+2. Time
+3. Release
 
 # How to use
 
