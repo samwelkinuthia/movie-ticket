@@ -9,6 +9,8 @@ The markdown was written primarily in  **html**, **css**  and **bootstrap** wher
 # link
 
 The web page can be accessed via https://samwelkinuthia.github.io/movie-ticket/
+# screenshot
+![homepage](https://github.com/samwelkinuthia/my-first-webpage/blob/master/Screenshot%20from%202017-05-10%2023-10-30.png?raw=true)
 
 # Contributer
 
