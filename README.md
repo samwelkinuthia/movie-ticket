@@ -1,6 +1,6 @@
-# movie-ticket
+# movie-ticket :cinema:
 
-> Ticket website.
+> Ticket website.You can fill in the movie details and get to know how much the tickets cost!
 
 # About
 
