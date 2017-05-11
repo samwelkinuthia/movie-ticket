@@ -24,7 +24,7 @@ To calculate the cost of a ticket based on 4 parameters:
 3. Time
 4. Release
 
-#### The formula used is **movie name - age + time + release**
+> The formula used is  **movie name - age + time + release** 
 
 # How to use
 
