@@ -32,7 +32,7 @@ save the index.html file in your local machine. open the file with your browser.
 
 # Found a Bug?
 
-You can help the developers by reporting identified bugs through this [link](google.com)
+You can help the developers by reporting identified bugs through this [link](https://www.google.com/)
 
 # License
 
