@@ -18,10 +18,12 @@ The code was written by [Kinuthia Samwel](https://github.com/samwelkinuthia) und
 
 # Purpose
 
-To calculate the cost of a ticket based on 3 parameters:
-1. Age
-2. Time
-3. Release
+To calculate the cost of a ticket based on 4 parameters:
+1. Movie name
+2. Age
+3. Time
+4. Release
+     The formula used is **movie name - age + time + release**
 
 # How to use
 
