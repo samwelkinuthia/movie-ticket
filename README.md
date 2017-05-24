@@ -14,7 +14,7 @@ The web page can be accessed via https://samwelkinuthia.github.io/movie-ticket/
 
 # Contributer
 
-The code was written by [Kinuthia Samwel](https://github.com/samwelkinuthia) under the guidance of [moringa school](http://moringaschool.com/).
+The code was written by [Kinuthia Samwel](https://github.com/samwelkinuthia)
 
 # Purpose
 
@@ -38,6 +38,6 @@ You can help the developers by reporting identified bugs through this [link](htt
 
 copyright(c) 2017
 
-![MoringaSchool](http://brandnew.moringaschool.com/wp-content/uploads/2017/02/logo-dark.png)
+![Logo](https://github.com/samwelkinuthia/movie-ticket/blob/master/sk-logo-black-on-white.png?raw=true)
 
 The contents of this repository are bounded by the following [license](https://github.com/samwelkinuthia/my-first-webpage/blob/master/LICENSE.txt)
